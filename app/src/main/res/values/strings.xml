@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Belajar Room DB</string>
+    <string name="nama_produk">nama_produk</string>
+    <string name="nama_deskripsi">nama_deskripsi</string>
+</resources>
